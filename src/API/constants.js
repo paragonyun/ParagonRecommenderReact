@@ -1,1 +1,1 @@
-export const baseUrl = "http://www.paragonrecommender.click/";
+export const baseUrl = "http://paragonrecommender.click";
